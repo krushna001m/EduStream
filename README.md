@@ -14,6 +14,9 @@
 - 🧠 **User-Centric Design** – Mobile-first, clean UI for ease of use.
 
 ---
+##💻 Demo
+
+You can try the live version of the Platform [here](https://krushna001m.github.io/EduStream/).
 
 ## 🛠️ Tech Stack
 
@@ -70,6 +73,20 @@ We welcome contributions! Here's how you can help:
 - Report bugs or suggest features via [Issues](https://github.com/krushna001m/EduStream/issues)
 - Fork the repo and create a Pull Request
 - Create or translate micro-courses in your regional language
+
+---
+
+## 👨‍💻 Developed By
+
+**Krushna Mengal**  
+🏆 Hackathon Winner | 💻 Web Developer | 📚 Diploma in Computer Technology  
+🔗 [GitHub](https://github.com/krushna001m) | 💼 [LinkedIn](https://linkedin.com/in/krushna001m)
+
+---
+
+## Contact
+
+<a href="https://github.com/krushna001m"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=ffffff"/></a>
 
 ---
 
