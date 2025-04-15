@@ -34,8 +34,8 @@ You can try the live version of the Platform [here](https://krushna001m.github.i
 EduStream/
 │
 ├── index.html          # Landing/Home Page
-├── courses.html        # Course listing
-├── features.html       # Offline Learning
+├── courses.html        # Courses
+├── features.html       # Features
 ├──
 ├── styles.css          # Stylesheets
 ├── script.js           # Scripts
