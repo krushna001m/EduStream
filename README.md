@@ -14,7 +14,7 @@
 - 🧠 **User-Centric Design** – Mobile-first, clean UI for ease of use.
 
 ---
-##💻 Demo
+## 💻 Demo
 
 You can try the live version of the Platform [here](https://krushna001m.github.io/EduStream/).
 
