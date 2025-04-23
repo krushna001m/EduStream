@@ -79,7 +79,7 @@ We welcome contributions! Here's how you can help:
 ## 👨‍💻 Developed By
 
 **Krushna Mengal**  
-🏆 Hackathon Winner | 💻 Web Developer | 📚 Diploma in Computer Technology  
+🏆 Hackathon Winner | 💻 Frontend Web Developer | 📚 Diploma in Computer Technology  
 🔗 [GitHub](https://github.com/krushna001m) | 💼 [LinkedIn](https://linkedin.com/in/krushna001m)
 
 ---
