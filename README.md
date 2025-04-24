@@ -1,7 +1,3 @@
-# EduStream 🎓 - Online Learning Platform
-
-**EduStream** is a smart, interactive, and inclusive online learning platform developed to bridge the digital education gap, especially in rural and semi-urban areas.
-
 
 ---
 
