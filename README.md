@@ -75,31 +75,7 @@ We welcome contributions! Here's how you can help:
 - Create or translate micro-courses in your regional language
 
 ---
+## 👨‍💻 Author
 
-## 👨‍💻 Developed By
-
-**Krushna Mengal**  
-🏆 Hackathon Winner | 💻 Frontend Web Developer | 📚 Diploma in Computer Technology  
-🔗 [GitHub](https://github.com/krushna001m) | 💼 [LinkedIn](https://linkedin.com/in/krushna001m)
-
----
-
-## Contact
-
-<a href="https://github.com/krushna001m"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=ffffff"/></a>
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 👨‍💻 Developed By
-
-**Krushna Mengal**  
-🏆 Hackathon Winner | 💻 Web Developer | 📚 Diploma in Computer Technology  
-🔗 [GitHub](https://github.com/krushna001m) | 💼 [LinkedIn](https://linkedin.com/in/krushna001m)
-
----
+* **Krushna Mengal**
+  GitHub: [@krushna001m](https://github.com/krushna001m)
