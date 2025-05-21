@@ -1,5 +1,14 @@
 # 🎓 EduStream  - Online Learning Platform
 
+## 🧾 Internship Details
+
+* **Company**: CODTECH IT SOLUTIONS
+* **Intern Name**: Krushna Mengal
+* **Intern ID**: CT12WF14
+* **Domain**: Web Development
+* **Duration**: 12 Weeks
+* **Mentor**: Neela Santhosh Kumar
+
 **EduStream** is a smart, interactive, and inclusive online learning platform developed to bridge the digital education gap, especially in rural and semi-urban areas.
 
 
